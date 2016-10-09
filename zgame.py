@@ -39,3 +39,8 @@ while 1:
     time_elapsed=time,time()-s_time
     	print "game over"
     	print "time taken: " str(time_elapsed)
+        
+
+'''
+1. Program not working. fix the errors.  :< :< :<
+'''
